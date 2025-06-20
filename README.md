@@ -5,15 +5,15 @@
 ---
 
 ## Summary
-Results-driven Senior Full-Stack Engineer with over 8 years of experience in developing scalable web applications across e-commerce and marketing technologies. Proven track record of modernizing legacy systems and innovating new products, significantly enhancing operational efficiency and user engagement. Skilled in cross-functional collaboration and committed to continuous improvement and delivering high-quality software solutions.
+Results-driven Senior Full-Stack Engineer with over 15 years of experience in developing scalable web applications across e-commerce and marketing technologies. Proven track record of modernizing legacy systems and innovating new products, significantly enhancing operational efficiency and user engagement. Skilled in cross-functional collaboration and committed to continuous improvement and delivering high-quality software solutions.
 
 ## Skills
 ### Languages & Frameworks
-- **Backend**: PHP, Laravel, Python, Django, Flask, NodeJS
+- **Backend**: PHP, Laravel, Python, Django, Flask, Node, NestJS
 - **Frontend**: JavaScript, Vue, React, Tailwind
 
 ### Databases
-- MySQL, PostgreSQL, DynamoDB, ElasticSearch
+- MySQL, PostgreSQL, MongoDB, DynamoDB, ElasticSearch
 
 ### DevOps & Tools
 - AWS, Docker, Git (GitHub, Bitbucket), Jenkins, CI/CD pipelines, Jira, Confluence
@@ -45,13 +45,19 @@ Results-driven Senior Full-Stack Engineer with over 8 years of experience in dev
 
 ## Education
 **University of Palermo**  
-Bachelor of Computer Sciences | 2017-2021
+Bachelor of Computer Sciences | 2017-2021 (incomplete)
 
 **University of Buenos Aires**  
-Sociology (2 years) | 2003-2005
+Sociology (2 years) | 2003-2005 (incomplete)
 
 ## Certifications
 - ITIL Foundation V4 | 2019
 - Coursera: Introduction to Git and GitHub | 2021
 - Coursera: Troubleshooting and Debugging Techniques | 2021
 - Coursera: Crash Course on Python | 2021
+
+## Courses
+- Mastering NestJS
+- LLM Engineering: Master AI, Large Language Models & Agents
+- React Native - The Practical Guide
+- Ultimate AWS Certified Cloud Practitioner CLF-C02
